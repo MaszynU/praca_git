@@ -1,0 +1,1 @@
+"\nAutor: MaszynU" 
